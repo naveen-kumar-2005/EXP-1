@@ -1,4 +1,7 @@
 ### Experiment 1: Decentralized Certificate Verification
+### Name:   Naveen Kumar.R
+### Reg no: 212223230139
+### Department: AI&DS
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
@@ -39,5 +42,8 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
+# Output:
+<img width="1919" height="1078" alt="Screenshot 2025-09-29 154736" src="https://github.com/user-attachments/assets/987fa780-d0b3-4427-a36b-66df7b48286d" />
 
+# Result:
+Thus the smart contract for issuing and verifying academic certificates on Ethereum is successfully deployed.
